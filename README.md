@@ -6,14 +6,14 @@
   <a href="https://www.instagram.com/gustavo_farias16?igsh=MTd6dHRyODMwMXhzOA==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </p>
 
-### 👨‍💻 Desenvolvedor FullStack 
+### 👨‍💻 Desenvolvedor FullStack  | Granduando em ADS
 
 Estou sempre em busca de aprender novas tecnologias e resolver problemas reais através do código. Atualmente, foco em aprimorar minhas habilidades em **JavaScript** e **Node.js**.
 
 ---
 
 ### 🛠 No que eu trabalho:
-
+* 🎓 Cursando **Análise e Desenvolvimento de Sistemas (ADS)**.
 * 🔭 Atualmente trabalhando na **SEGUP** como Estagiário.
 * 🌱 Estudando profundamente **JavaScript** e o ecossistema **Node**.
 * ⚡ **Curiosidade:** Extremamente viciado em tecnologia e UX (User Experience).
@@ -28,15 +28,6 @@ Estou sempre em busca de aprender novas tecnologias e resolver problemas reais a
 | **Frameworks** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
 | **Banco de Dados** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) |
 | **Ferramentas** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
-
----
-
-### 📊 Estatísticas:
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavofariass&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavofariass&layout=compact&langs_count=7&theme=radical"/>
-</p>
 
 ---
 
