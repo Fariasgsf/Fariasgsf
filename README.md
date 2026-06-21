@@ -3,7 +3,6 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/gustavo-farias-b6a821344" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:fariasgsf@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/gustavo_farias16?igsh=MTd6dHRyODMwMXhzOA==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </p>
 
 ### 👨‍💻 Desenvolvedor FullStack  | Graduando em ADS
@@ -31,4 +30,4 @@ Estou sempre em busca de aprender novas tecnologias e resolver problemas reais a
 
 ---
 
-> *"A sorte é o que acontece quando a preparação encontra a oportunidade."*
+
